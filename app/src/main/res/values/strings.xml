@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">BaseEdgardo</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="alta">Agregar</string>
+    <string name="baja">Eliminar</string>
+    <string name="modi">Modificar</string>
+    <string name="buscar">Buscar</string>
+    <string name="limpiar">Limpiar</string>
+    <string name="id_pro">ID producto:</string>
+    <string name="nombre_pro">Nombre del producto</string>
+    <string name="descrip">Descripcion del producto:</string>
+    <string name="precio">Precio:</string>
+    <string name="empresa">Proveedor:</string>
+
+</resources>
